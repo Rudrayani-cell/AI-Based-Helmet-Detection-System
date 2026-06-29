@@ -1,7 +1,4 @@
-```markdown
-<div align="center">
-
-# 🪖 AI-Based Helmet Detection System using YOLOv8
+ 🪖 AI-Based Helmet Detection System using YOLOv8
 
 ### Real-Time Intelligent Motorcycle Helmet Detection using Deep Learning
 
@@ -37,15 +34,6 @@
 
 ---
 
-## 👩‍💻 Author
-
-# **Rudrayani Adichwal**
-
-**Electronics & Telecommunication Engineering**
-
-Artificial Intelligence • Computer Vision • Deep Learning • Embedded Systems
-
-⭐ If you like this project, consider giving it a **Star**.
 
 </div>
 
@@ -743,19 +731,6 @@ If the webcam opens with live helmet detection, the installation is successful.
 - Cloud Dashboard
 - Mobile Application Support
 
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
-
----
 
 # 📜 License
 
