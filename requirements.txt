@@ -1,0 +1,16 @@
+# AI-Based Helmet Detection System - Dependencies
+# Core ML Framework
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Utilities
+numpy>=1.24.0
+Pillow>=9.0.0
+pyyaml>=6.0
+
+# Demo UI
+streamlit>=1.28.0

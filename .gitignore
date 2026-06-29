@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model Weights (large files)
+models/*.pt
+models/*.onnx
+!models/.gitkeep
+
+# Dataset (large files)
+data/images/
+data/labels/
+data/train/
+data/val/
+data/test/
+!data/sample/
+
+# Output
+output/*
+!output/.gitkeep
+
+# Logs
+*.log
+runs/
+kfold_splits/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
